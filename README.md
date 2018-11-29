@@ -24,6 +24,9 @@ All of these are flexible and will be dependent on student interests and skills 
 * Docker based API capable of ingesting imagery and outputting a classified map 
   * we will develop the model to do the classifying during the summer, but just the architecture
 * interactive website capable of visualizing maps, images, and classified products
+* novel ways to visualize geospatial data
+  * e.g. https://blog.mapbox.com/high-resolution-land-cover-and-land-use-data-classification-in-unity-e101ab119e98
+  * e.g. https://blog.mapbox.com/combining-the-power-of-aws-lambda-and-rasterio-8ffd3648c348
 
 #### Papers:
 
