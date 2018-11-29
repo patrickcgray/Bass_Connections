@@ -1,5 +1,6 @@
-# Bass_Connections
-Deep Learning and Remote Sensing for Coastal Resilience and Disaster Response (2019-2020)
+## Bass Connection - Deep Learning and Remote Sensing for Coastal Resilience and Disaster Response (2019-2020)
+
+This website is specifically for students working on the 2019-2020 Bass Connections project but could be of interest to a wider ranger of folks interested in learning about scientific computing for geospatial analysis, remote sensing for change detection, and combining remote sensing with new deep learning techniques.
 
 ### Project Overview ([full description](https://bassconnections.duke.edu/project-teams/deep-learning-and-remote-sensing-coastal-resilience-and-disaster-response-2019-2020)):
 
@@ -45,6 +46,8 @@ All of these are flexible and will be dependent on student interests and skills 
   * HAB RS: https://arset.gsfc.nasa.gov/water/webinars/HABs17 
   * Ecoforcasting: https://arset.gsfc.nasa.gov/land/webinars/scenario-based-ecoforecasting-17 
 * Coding
+  * Software Carpentry with Python (~6 hours)
+    * http://swcarpentry.github.io/python-novice-inflammation/
   * Udacity Intro to Python (3-5 weeks) 
     * https://www.udacity.com/course/introduction-to-python--ud1110
   * Learn Python the Hard Way (2-4 weeks)
@@ -60,11 +63,14 @@ All of these are flexible and will be dependent on student interests and skills 
     * shapely - Manipulation and analysis of geometric objects (vectors)
     * fiona - Reading and writing geospatial data (vectors)
     * https://gist.github.com/jacquestardie/0d1c0cb413b3b9b06edf#file-modern-geospatial-python-md
-* Data Science and Visualization
-  * Udacity data science course
-  * Data Science with Python
-  * Data Visualizations
-  * Illustrator
+* Data Science and Visualization (also Geospatial Visualization)
+  * Udacity Intro to Data Analysis
+    * https://www.udacity.com/course/intro-to-data-analysis--ud170
+  * Python Data Science Handbook
+    * https://jakevdp.github.io/PythonDataScienceHandbook/
+  * Data Visualization and D3.js
+    * https://www.udacity.com/course/data-visualization-and-d3js--ud507
+  * Adobe Illustrator
 * Machine Learning
   * An intuitive understanding of Neural Networks - 3Blue1Brown (~2 hours)
     * https://www.youtube.com/watch?v=aircAruvnKk
