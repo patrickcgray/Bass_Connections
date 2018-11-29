@@ -20,6 +20,7 @@ This independept study will have three components: self-led learning, a journal 
 All of these are flexible and will be dependent on student interests and skills but provide a starting place.
 
 * initial CNN based classification of satellite and drone imagery
+  * https://github.com/HyperionAnalytics/PyDataNYC2014
 * paper on tip-and-cue methods and applications in storm/disaster response
 * Docker based API capable of ingesting imagery and outputting a classified map 
   * we will develop the model to do the classifying during the summer, but just the architecture
@@ -43,6 +44,9 @@ All of these are flexible and will be dependent on student interests and skills 
 
 * Students have to choose from a number of resources for a total of 10 points with each class / book being between 2-5 points
 * Remote Sensing
+  * Scientific Computing for for Remote Sensing
+    * https://github.com/profLewis/geogg122
+    * http://blog.rtwilson.com/resources-for-learning-python-for-remote-sensing-or-switching-from-idl/
   * Fundamentals of Remote Sensing
   * NASA Disaster Mgmt: https://arset.gsfc.nasa.gov/disasters/webinars/disaster-overview-2016 
   * Ocean RS: https://arset.gsfc.nasa.gov/land/webinars/coastal-oceans-2016 
