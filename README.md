@@ -47,7 +47,8 @@ All of these are flexible and will be dependent on student interests and skills 
 
 #### Educational Resources:
 
-* Students have to choose from a number of resources for a total of 8 weeks of work in this section
+##### Students will choose from these resources for a total of 8 weeks of work in this section. We'll be open to other suggestions if they seem of sufficient quality, rigor, and relevance.
+
 * Remote Sensing
   * Scientific Computing for for Remote Sensing
     * https://github.com/profLewis/geogg122
