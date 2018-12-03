@@ -6,6 +6,8 @@ This website is specifically for students working on the 2019-2020 Bass Connecti
 
 ### Project Overview ([full description](https://bassconnections.duke.edu/project-teams/deep-learning-and-remote-sensing-coastal-resilience-and-disaster-response-2019-2020)):
 
+![Crystal Coast Before and After](https://github.com/patrickcgray/Bass_Connections/blob/master/before_after_flo_outflow.png)
+
 The purpose of this project is to use Hurricane Florence's impacts on North Carolina’s coastline to develop a methodology for rapid and high-resolution monitoring of coastal areas in the face of storm impacts. We will do so by leveraging convolution neural networks (CNNs) to automate change detection in satellite imagery. The change detected via satellite will trigger a time-series of UAS surveys for areas that experienced substantial change.
 
 #### Outcomes:
