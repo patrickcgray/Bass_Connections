@@ -47,6 +47,14 @@ All of these are flexible and will be dependent on student interests and skills 
 * Weinstein. 2018 A computer vision for animal ecology
 * https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
+#### Books
+* Conservation Technology: Satellite Remote Sensing
+  * https://www.researchgate.net/publication/324537528_Conservation_Technology_Series_Issue_4_SATELLITE_REMOTE_SENSING_FOR_CONSERVATION
+* Retreat from a Rising Sea: Hard Choices in an Age of Climate Change
+  * https://www.amazon.com/Retreat-Rising-Sea-Choices-Climate/dp/0231168454
+  
+ 
+
 #### Educational Resources:
 
 ##### Students will choose from these resources for a total of 8 weeks of work in this section. We'll be open to other suggestions if they seem of sufficient quality, rigor, and relevance.
