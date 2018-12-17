@@ -52,8 +52,10 @@ All of these are flexible and will be dependent on student interests and skills 
   * https://www.researchgate.net/publication/324537528_Conservation_Technology_Series_Issue_4_SATELLITE_REMOTE_SENSING_FOR_CONSERVATION
 * Retreat from a Rising Sea: Hard Choices in an Age of Climate Change
   * https://www.amazon.com/Retreat-Rising-Sea-Choices-Climate/dp/0231168454
-  
- 
+
+#### General Reading
+* PBS NewsHour: Why coastal Carolina may never recover from its intensifying hurricanes
+  * https://www.pbs.org/newshour/science/why-coastal-carolina-may-never-recover-from-its-intensifying-hurricanes
 
 #### Educational Resources:
 
